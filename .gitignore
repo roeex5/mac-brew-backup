@@ -1,6 +1,6 @@
 # Generated output files (timestamped artifacts)
 mac_inventory_*.txt
-Brewfile_*
+Brewfile_[0-9]*
 homebrew_analysis_*.txt
 homebrew_analysis_*.json
 homebrew_analysis_*.csv
